@@ -145,6 +145,11 @@ to explore life. Also, Python and Django Developer
  - Bio: CSE Undergrad in IIIT Hyderabad
  - Github: [akshat14714](https://github.com/akshat14714/)
 
+#### Name: [Akshat Yadav](https://github.com/Akshat1276)
+ - Place: India
+ - Bio: N/A
+ - Github: [Akshat1276](https://github.com/Akshat1276)
+   
 #### Name: [Akshit Kharbanda](https://github.com/akshit04)
 - Place: Delhi, India
 - Bio: 5th semester IT Undergrad. Machine Learning enthusiast. Black coffee <3
